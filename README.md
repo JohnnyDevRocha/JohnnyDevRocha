@@ -2,5 +2,5 @@
 
 Freelancer
 
-[![Instagram Badge](https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png)](https://www.instagram.com/johnny_yall/) 
-[![Gmail Badge](https://image.flaticon.com/icons/svg/281/281769.svg)](mailto:johnny.devcode@gmail.com)
+[![Instagram Badge](https://icon-icons.com/icons2/1/PNG/32/social_instagram_3.png)](https://www.instagram.com/johnny_yall/) 
+[![Gmail Badge](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png)](mailto:johnny.devcode@gmail.com)
