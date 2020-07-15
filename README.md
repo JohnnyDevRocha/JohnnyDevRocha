@@ -2,5 +2,5 @@
 
 Freelancer
 
-**Instagram** https://www.instagram.com/johnny_yall \n
-**Gmail** johnny.devcode@gmail.com
+  **Instagram** https://www.instagram.com/johnny_yall<br>
+  **Gmail** johnny.devcode@gmail.com
