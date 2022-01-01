@@ -13,9 +13,10 @@ Sou um programador pleno
 </div>
 <br>
 
- ![Instagram](https://github.com/JohnnyDev2001/JohnnyDev2001/blob/master/ame.png) **Instagram** https://www.instagram.com/ojohnnyrocha<br>
- ![Gmail](https://github.com/JohnnyDev2001/JohnnyDev2001/blob/master/gmail.png) **Gmail** johnny.devcode@gmail.com
-  
-
+##
+<div>
+    <a href="https://www.instagram.com/ojohnnyrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:johnny.devcode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 #Programming changes the world.
