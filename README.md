@@ -1,6 +1,6 @@
 ### Olá!, eu sou o Johnny Rocha
 
-Sou um programador pleno
+Sou um programador web
 
 ### Tenho conhecimento em:
 
