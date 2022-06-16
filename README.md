@@ -1,4 +1,4 @@
-### Olá!, eu sou o Johnny Rocha
+### Olá!, eu sou o Johnny
 
 Sou um programador web
 
