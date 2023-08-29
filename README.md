@@ -5,9 +5,10 @@ Desenvolvedor Backend
 
 ![Johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyDev2001&theme=dracula)
 
-##
+## Minhas redes
 <div>
     <a href="https://www.johnnyrocha.com.br" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jrdevbend" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-316192?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/ojohnnyrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:contato@johnnyrocha.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
