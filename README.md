@@ -3,7 +3,7 @@
 Programador
 <hr/>
 
-![Johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyDev2001&theme=dracula)
+![Johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyDevRocha&theme=dracula)
 
 ## Minhas redes
 <div>
