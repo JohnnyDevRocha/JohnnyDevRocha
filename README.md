@@ -1,6 +1,6 @@
 ## Olá!, eu sou o João V. Rocha
 
-Programador
+Backend developer
 <hr/>
 
 ![Johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyDevRocha&theme=dracula)
